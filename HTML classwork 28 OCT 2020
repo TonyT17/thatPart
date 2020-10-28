@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>patients information</title>
+</head>
+
+<body>
+    <table>
+        <tr>
+            <th>name</th>
+            <th>date</th>
+            <th>age</th>
+            <th>TANK</th>
+            <th>11-11-2020</th>
+            <th>17</th>
+        </tr>
+        <tr>
+            <th>name</th>
+            <th>date</th>
+            <th>age</th>
+            <th>TANK</th>
+            <th>11-11-2020</th>
+            <th>17</th>
+        </tr>
+        <tr>
+            <th>name</th>
+            <th>date</th>
+            <th>age</th>
+            <th>TANK</th>
+            <th>11-11-2020</th>
+            <th>17</th>
+        </tr>
+    </table>
+    <input for="first-name-placeholder" types="text" placeholder="TONY" />
+</body>
+
+</html>
